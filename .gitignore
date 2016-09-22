@@ -1,5 +1,5 @@
 # Created by https://www.gitignore.io/api/java,eclipse,intellij,maven,gradle,macos,windows,android,xcode
-
+.idea/
 ### Eclipse ###
 
 .metadata
