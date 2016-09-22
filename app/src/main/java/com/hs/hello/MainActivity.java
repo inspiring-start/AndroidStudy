@@ -24,11 +24,3 @@ public class MainActivity extends AppCompatActivity {
         startActivity(myIntent);
     }
 }
-*.iml
-        .gradle
-        /local.properties
-        /.idea/workspace.xml
-        /.idea/libraries
-        .DS_Store
-        /build
-        /captures
